@@ -22,4 +22,4 @@ The initial pattern constitutes the seed of the system. The first generation is 
 
 ## Game Photo
 
-![Game photo](https://raw.githubusercontent.com/jorger5/jRCoding/master/game-of-life/src/Resources/images/finalGame.jpg)
+![Game photo](https://raw.githubusercontent.com/jorger5/GameOfLife/master/src/Resources/images/finalGame.jpg)
