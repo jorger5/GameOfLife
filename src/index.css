@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@400;500;600;900&display=swap');
+
+#root{
+  background-color: #282727;
+  font-family: 'Source Code Pro', 'sans-serif'; 
+
+}
+body {
+  margin: 0;
+  font-family: 'Source Code Pro', 'sans-serif'; 
+}
+
+p{
+  color: #E5E5E5;
+
+}
+
+h2{
+  color: #ffffff;
+  text-transform: uppercase;
+  font-family: 'Source Code Pro';
+  letter-spacing: 0.25em;
+
+}
+
+h5{
+  color: #E5E5E5;
+}
+
+/* speed input field */
+.speedIn{
+  width: 354px;
+  height: 52px;
+  border: 3px solid #ffffff;
+  box-sizing: border-box;
+  border-radius: 36px;
+  color:#989898;
+  font-size: 12px;
+  background: transparent;
+  text-align: center;
+  font-family: 'Source Code Pro';
+
+}
+
+/* yelllow buttons for Iniciar, Stop and Next turn */
+.buttons-y{
+  background-color:#E4FF3E;
+  width: 195px;
+  height: 45px;
+  font-family: 'Source Code Pro';
+
+}
+
+/* turn status text */
+.turn{
+  text-transform: uppercase;
+  color: #E4FF3E;
+  font-size: 50px;
+}
+/* button to restart the game */
+.buttons-r{
+  color:#62F6FF;
+  border-color: #62F6FF;
+  width: 195px;
+  height: 45px;
+  font-family: 'Source Code Pro';
+  background: transparent;
+}
+/* buttons to resize the grid */
+.buttons-g{
+  width: 145px;
+  height: 40px;
+  background: rgba(229, 229, 229, 0.1);
+  border: 1px solid #E4FF3E;
+  box-sizing: border-box;
+  border-radius: 36px;
+  text-align: center;
+  font-family: 'Source Code Pro';
+  color: #E5E5E5;
+
+}
